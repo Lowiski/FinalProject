@@ -27,6 +27,14 @@
     flex: 1 1 250px;
     margin-bottom: 20px;
   }
+  .footer-section a {
+    color: white;
+    text-decoration: none;
+
+  }
+  .footer-section a:hover {
+    text-decoration: underline;
+  }
   
   .footer-section h3,
   .footer-section h4 {

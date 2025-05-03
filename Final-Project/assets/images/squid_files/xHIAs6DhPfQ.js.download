@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("composerMonetizationToolsTransform",[],(function(a,b,c,d,e,f){"use strict";function a(a,b,c){c(babelHelpers["extends"]({},b,{affiliate_links:(c=a.monetizationToolsData)==null?void 0:c.affiliateLinks}))}f["default"]=a}),66);
+__d("composerVideoRemixTransform",["ComposerGating"],(function(a,b,c,d,e,f,g){"use strict";function a(a,b,c){var e=a.isReelsRemixableByViewer;a=a.mediaAttachments;if(e!=null&&d("ComposerGating").shouldShowUnifiedVideoEditor()){a=(a==null?void 0:a.length)===1&&a[0].fileType==="VIDEO";if(a)return c(babelHelpers["extends"]({},b,{reels_remix:{remix_status:e?"ENABLED":"DISABLED"}}))}c(b)}g["default"]=a}),98);

@@ -5,6 +5,8 @@
 @import "footer.css";
 @import "hero-banner.css";
 @import "card.css";
+@import "products.css";
+@import "about.css";
 
 * {
     margin: 0px;
