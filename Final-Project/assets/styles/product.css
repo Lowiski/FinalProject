@@ -44,11 +44,11 @@
     color: #333;
   }
   
-  .product-card .price {
+  /* .product-card .price {
     font-size: 1.2em;
     color: #006994;
     margin-bottom: 10px;
-  }
+  } */
   
   .product-card p {
     font-size: 0.95em;

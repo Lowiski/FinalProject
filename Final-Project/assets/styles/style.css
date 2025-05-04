@@ -1,12 +1,14 @@
 
 @import "button.css";
+
  
 @import "navbar.css";
 @import "footer.css";
 @import "hero-banner.css";
-@import "card.css";
-@import "products.css";
 @import "about.css";
+@import "contact.css";
+@import "fish.css";
+@import "product.css";
 
 * {
     margin: 0px;
